@@ -1,9 +1,5 @@
-<script setup lang="ts">
-import UseElementVisibilityBug from './views/UseElementVisibilityBug.vue';
-</script>
-
 <template>
-  <UseElementVisibilityBug />
+  <router-view></router-view>
 </template>
 
 <style>
